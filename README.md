@@ -1,3 +1,5 @@
+![Demo de la aplicación](Sistema de inventario.gif)
+
 ## Demostración de Uso
 ![Demo de la aplicación](Sistema_Helpdesk.gif)
 
