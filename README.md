@@ -1,5 +1,5 @@
 ## Demostración de Uso
-![Demo de la aplicación](Sistema_de_Inventario.gif)
+![Demo de la aplicación](https://raw.githubusercontent.com/18deivyd/InventoryMaster-GUI-Sistema-de-Gestin-de-Inventario-y-Control-de-Stock/main/Sistema%20de%20Inventario.gif)
 
 # 📦 InventoryMaster GUI - Catalogo de Productos
 
