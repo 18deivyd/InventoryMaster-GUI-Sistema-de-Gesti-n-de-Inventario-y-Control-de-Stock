@@ -1,4 +1,4 @@
-![Demo de la aplicación]("Sistema de Inventario.gif")
+![Demo de la aplicación]("Sistema_de_Inventario.gif")
 
 ## Demostración de Uso
 ![Demo de la aplicación](Sistema_Helpdesk.gif)
