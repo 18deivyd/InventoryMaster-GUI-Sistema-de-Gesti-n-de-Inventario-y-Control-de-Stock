@@ -1,7 +1,5 @@
-![Demo de la aplicación]("Sistema_de_Inventario.gif")
-
 ## Demostración de Uso
-![Demo de la aplicación](Sistema_Helpdesk.gif)
+![Demo de la aplicación](Sistema_de_Inventario.gif)
 
 # 📦 InventoryMaster GUI - Catalogo de Productos
 
